@@ -1,34 +1,41 @@
-# <Your-Project-Title>
+# Prework Study Guide Webpage
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+- What was my motivation?
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+My key motivation is to learn how to build a web app, and I think this course with Trilogy edX is offering a good starting point and it is also supported by the UK government.
+
+- Why did you build this project?
+
+This project will help to structure my mind, to guide me towards the start of the entire programme on web development, and to help those who might be interested in following the same pathway as mine.
+
 - What problem does it solve?
+
+This study guide solves a few problems: 1) It shows the pathway to get well prepared for the prework study prepartion; 2) It also helps to build up on my confidence as this is first time I am programming to develop a web app, even though I was already exposed to programming/coding in the past.
+
 - What did you learn?
 
-## Table of Contents (Optional)
+First, I had a beginner exposure to what is html, css, git, and javascript. Second, I had the opoortunity to really appreciate if I wanted to get through the full web development, and if I like what I was doing.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+These are the four (4) key usages:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+- Acknowledging all modules presentation;
 
-![alt text](assets/images/screenshot.png)
+- Understanding the objectives;
+
+- Assessing the html, css, and javascript coding works;
+
+- The web page template to establish.
+
+
 
 ## Credits
 
